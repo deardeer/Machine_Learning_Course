@@ -8,7 +8,9 @@
 
 In this course, I will: 
 
-- Theoretically, (1) I will introduce basic machine learning methods and (2) demonstrate how it works. After taking this course, you will be able to (3) 
+- Theoretically, (1) I will introduce basic machine learning methods and (2) demonstrate how it works. 
+
+After taking this course, you will:
 
 - Practically, we will learn how to (1) use machine learning toolkits (e.g., SciPy) as well as (2) implement machine learning algorithms by yourself (optional).
 
@@ -57,7 +59,7 @@ In this course, I will:
  
 - &#x1F4D9; &#x1F4D9; Week 5-2: Tips for Learning Methods &#x1F4D9; &#x1F4D9; 
 
-	- *Brief*: Debug a learning algorithm, test data, cross-validation dataset, underfit, overfit, bias, variance, 
+	- *Brief*: Debug a learning algorithm, test data, cross-validation dataset, underfit, overfit, bias, variance 
 	
 	**Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L5_propagation_neural_network.pdf
 	
