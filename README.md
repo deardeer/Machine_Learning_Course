@@ -12,7 +12,7 @@ In this course, I will:
 
 After taking this course, you will:
 
-- Practically, we will learn how to (1) use machine learning toolkits (e.g., SciPy) as well as (2) implement machine learning algorithms by yourself (optional).
+- Practically, we will learn how to (1) use machine learning toolkits (e.g., regression, classification, clustering, sci-kit learn and SciPy) as well as (2) implement machine learning algorithms by yourself (optional).
 
 ## Weekly Schedule Summary
 
@@ -48,20 +48,20 @@ After taking this course, you will:
 
 	- *Brief*: Why neural network, neuron, neural network, network with multiple output units 
 	
-	**Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L4_neural_network.pdf 
+	&#x1F49C; **Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L4_neural_network.pdf 
 	
 - &#x1F4D9; &#x1F4D9; Week 5-1: Forward and Back Propagation in Neural Network &#x1F4D9; &#x1F4D9; 
 
 	- *Brief*: Forward Propagation, back propagation
 	
-	**Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L5_propagation_neural_network.pdf
+	&#x1F49C; **Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L5_propagation_neural_network.pdf
   
  
 - &#x1F4D9; &#x1F4D9; Week 5-2: Tips for Learning Methods &#x1F4D9; &#x1F4D9; 
 
 	- *Brief*: Debug a learning algorithm, test data, cross-validation dataset, underfit, overfit, bias, variance 
 	
-	**Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L5_propagation_neural_network.pdf
+	&#x1F49C; **Slides** https://github.com/deardeer/Machine_Learning_Course/blob/main/pdf/L5_propagation_neural_network.pdf
 	
 	## Reference
 
